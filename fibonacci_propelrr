@@ -1,7 +1,5 @@
 <?php  
 
-// Propelrr Exam Fibonacci Problem #5
-
 function fibonacci($num){
     if($num == 0){
           return 0;  
